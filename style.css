@@ -27,6 +27,7 @@ body {
 
 .link-card:hover {
     background-color: #333;
+    border: 1px solid #4b5f43;
     transform: scale(1.02);
 }
 
